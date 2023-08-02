@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e782a25d.css",
+    "main.js": "/static/js/main.45c63658.js",
+    "static/media/Futura Heavy Italic font.ttf": "/static/media/Futura Heavy Italic font.815a0751cf3a349980ef.ttf",
+    "static/media/Futura Heavy font.ttf": "/static/media/Futura Heavy font.af72c25a6945b0f48abb.ttf",
+    "static/media/Futura XBlk BT.ttf": "/static/media/Futura XBlk BT.a94e073ab6ba0739c5a8.ttf",
+    "static/media/futura medium bt.ttf": "/static/media/futura medium bt.4e762c29ef7b44ca51cb.ttf",
+    "static/media/Futura Light Italic font.ttf": "/static/media/Futura Light Italic font.7a38f125834cd8b1f80c.ttf",
+    "static/media/futura light bt.ttf": "/static/media/futura light bt.ead7282f8edac7904e53.ttf",
+    "index.html": "/index.html",
+    "main.e782a25d.css.map": "/static/css/main.e782a25d.css.map",
+    "main.45c63658.js.map": "/static/js/main.45c63658.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e782a25d.css",
+    "static/js/main.45c63658.js"
+  ]
+}
