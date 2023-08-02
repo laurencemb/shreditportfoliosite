@@ -1,19 +1,16 @@
 #navlink {
-    font-family: "medium"; 
+    font-family: "lightItalic"; 
     background-color: transparent;
-    /* color: white; */
-    text-align: right;
+    color: white; 
     margin:  5px auto;
-    padding: 20;
     border: none;
     text-decoration: none ;
-    align-items: right;
-    justify-content: right;
+    font-size: x-large;
 }
 
 #navlink:hover {
-    font-family: "heavy";
-    color:rgb(224, 6, 90);
+    font-family: "heavyItalic";
+    color:rgb(256, 256, 256);
 }
 
 @media only screen and (max-width: 600px) {

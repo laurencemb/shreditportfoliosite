@@ -1,8 +1,18 @@
 header {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    
+  /*   display: flex;
     justify-content: flex-end;
     align-items: flex-start;
-    width: 100%;
+    width: 100%; */
+  }
+
+  .navContainer{
+    width: 50%;
   }
   
   
@@ -10,11 +20,13 @@ header {
   #nav-links {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     
   } 
   
   .nav {
-    height: 200px;
+    height: 100px;
+    background-color: #de0606;
   }
   
   ul {
@@ -27,12 +39,12 @@ header {
   
   @media only screen and (max-width: 600px) {
     header {
-      flex-direction: column;
-      display: flex;
-      justify-content: flex-start;
+     /*  flex-direction: column; */
+      /* display: flex; */
+      justify-content: center;
       align-items: center;
-      position:absolute;
-      top: 0;
+     /*  position:absolute; */
+     /*  top: 0; */
       max-width: 100%;
       text-align: center;
       
@@ -43,6 +55,7 @@ header {
       align-items: center;
       max-width: 100%;
       margin-left: 20px;
+    
       
     }
 

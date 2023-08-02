@@ -2,7 +2,7 @@ import React, {Fragment} from 'react';
 import './navbar.css';
 import { Link } from 'react-router-dom';
 import Navlink from '../NavLink/navlink'
-/* import '../../global.css'; */
+import '../../../global.css'; 
 
 function Navbar(props) {
 
