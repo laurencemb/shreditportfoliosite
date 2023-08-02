@@ -1,0 +1,21 @@
+#navlink {
+    font-family: "medium"; 
+    background-color: transparent;
+    /* color: white; */
+    text-align: right;
+    margin:  5px auto;
+    padding: 20;
+    border: none;
+    text-decoration: none ;
+    align-items: right;
+    justify-content: right;
+}
+
+#navlink:hover {
+    font-family: "heavy";
+    color:rgb(224, 6, 90);
+}
+
+@media only screen and (max-width: 600px) {
+    #navlink{text-align:center;}
+}
